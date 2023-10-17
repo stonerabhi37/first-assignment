@@ -1,0 +1,1330 @@
+* {
+    margin: 0px;
+    top: 0px;
+    font-family: 'Edu SA Beginner', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Philosopher', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+/* this is top navigation bar */
+
+li {
+    list-style: none;
+    margin-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.nav-1 {
+    display: flex;
+    padding-left: 12px;
+    background-color: whitesmoke;
+    height: 27px;
+}
+
+.over {
+    border-right: 1px solid black;
+}
+
+.kil {
+    margin-left: 910px;
+    padding-top: 3px;
+    border-right: 1px solid black;
+    
+    background-color: rgba(255, 30, 0, 0.63);
+    width: 160px;
+}
+
+.call {
+    padding-top: 3px;
+    background-color: rgba(255, 30, 0, 0.63);
+    height: 18px;
+    width: 200px;
+    /* padding-left: 5px; */
+   
+}
+
+/* this is second navigation bar */
+.nav-2 {
+    margin-left: 1170px;
+
+    display: flex;
+    height: 50px;
+    background-color: rgba(240, 248, 255, 0.14);
+    position: relative;
+    padding-top: 25px;
+}
+
+.consult {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    color: rgba(255, 0, 0, 0.83);
+}
+
+.fa-regular {
+    margin-right: 15px;
+}
+
+/* this is first image  */
+.image-1 {
+    filter: brightness(0.30);
+    background: #779ae4;
+
+    width: 100%;
+}
+
+.busi {
+    position: absolute;
+    color: lavender;
+    top: 465px;
+    left: 680px;
+}
+
+.your {
+    position: absolute;
+    top: 500px;
+    text-align: center;
+    left: 460px;
+    font-size: 55px;
+    color: white;
+}
+
+.div2 {
+    position: relative;
+}
+
+.quote {
+    position: absolute;
+    top: 640px;
+    left: 200px;
+    margin-left: 400px;
+    width: 100px;
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgb(231, 26, 12);
+    color: white;
+}
+
+.quot {
+    position: absolute;
+    top: 640px;
+    left: 300px;
+    margin-left: 480px;
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+}
+
+#less {
+    position: absolute;
+    left: 10px;
+    top: 530px;
+    font-size: 60px;
+    color: rgb(128, 128, 128);
+}
+
+#great {
+    position: absolute;
+    right: 10px;
+    top: 530px;
+    font-size: 60px;
+    color: rgb(128, 128, 128);
+}
+
+/* this is box three */
+.box1 {
+    height: 418px;
+    width: 50%;
+    display: flex;
+    position: relative;
+    background-color: rgba(250, 235, 215, 0.473);
+}
+
+.box-2 {
+    background-color: rgba(255, 30, 0, 0.897);
+    width: 49.9%;
+    height: 420px;
+    display: flex;
+    position: absolute;
+    top: 128%;
+    left: 792px;
+
+}
+
+.get {
+    margin-left: 30PX;
+    margin-top: 100PX;
+}
+
+.CON {
+    color: rgba(255, 30, 0, 0.897);
+}
+
+.lor {
+    margin-top: 150px;
+    right: 250px;
+    position: absolute;
+    left: 30px;
+    color: rgba(255, 30, 0, 0.897);
+}
+
+.like {
+    top: 220px;
+    position: absolute;
+    left: 30px;
+}
+
+.real {
+    position: absolute;
+    top: 320px;
+    left: 30px;
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: rgba(255, 30, 0, 0.897);
+    color: white;
+}
+
+.duo {
+    top: 45px;
+    position: relative;
+    left: 80px;
+}
+
+.wwe {
+    position: relative;
+    top: 80px;
+    right: 135px;
+}
+
+.oes {
+    position: absolute;
+    top: 135px;
+    left: 80px;
+}
+
+.at {
+    position: absolute;
+    top: 170px;
+    left: 80px;
+}
+
+.amet {
+    position: absolute;
+    top: 220px;
+    left: 80px;
+}
+
+.fug {
+    position: absolute;
+    top: 260px;
+    left: 80px;
+}
+
+#user {
+    position: absolute;
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    margin-top: 40px;
+    background-color: white;
+    color: rgba(255, 30, 0, 0.897);
+}
+
+#chart {
+    position: absolute;
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    margin-top: 132px;
+    background-color: white;
+    color: rgba(255, 30, 0, 0.897);
+}
+
+#scales {
+    position: absolute;
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    margin-top: 220px;
+    background-color: white;
+    color: rgba(255, 30, 0, 0.897);
+}
+
+#div3 {
+    width: 100%;
+}
+
+#offer {
+    font-size: 60px;
+
+    margin-top: 85px;
+
+    width: 400px;
+    position: relative;
+    margin-left: 600px;
+}
+
+.border {
+    position: absolute;
+    border: 1px solid rgba(255, 30, 0, 0.336);
+    width: 140px;
+    top: 85px;
+    margin-left: 125px;
+}
+
+/* first box */
+.three {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 25PX;
+    position: relative;
+}
+
+.clita {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+}
+
+.lit {
+    position: absolute;
+    text-align: center;
+    top: 200px;
+}
+
+#use {
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 22PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    top: 60px;
+    left: 120px;
+}
+
+/* secomd box */
+
+.four {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 230PX;
+    position: relative;
+}
+
+#pie {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 22PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 60px;
+    left: 120px;
+}
+
+.planning {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+}
+
+.dog {
+    position: absolute;
+    text-align: center;
+    top: 200px;
+}
+
+/* box five */
+
+.five {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 240PX;
+    position: relative;
+}
+
+#char {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 22PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 60px;
+    left: 120px;
+}
+
+.maket {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+}
+
+.few {
+    position: absolute;
+    text-align: center;
+    top: 200px;
+}
+
+#box-3 {
+    display: flex;
+    margin-left: 10PX;
+}
+
+
+#box-4 {
+    display: flex;
+    margin-left: 10PX;
+}
+
+/* box six */
+.six {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 25PX;
+    position: absolute;
+}
+
+#area {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 22PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 60px;
+    left: 120px;
+}
+
+.rebum {
+    position: absolute;
+    top: 160px;
+    left: 80px;
+}
+
+.uck {
+    position: absolute;
+    text-align: center;
+    top: 200px;
+}
+
+/* box seven */
+.seven {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    margin-left: 605PX;
+    position: absolute;
+}
+
+#scale {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 60px;
+    left: 120px;
+}
+
+#box-4 {
+    position: relative;
+}
+
+.lem {
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+.visor {
+    margin-top: 160px;
+    position: absolute;
+    left: 90px;
+}
+
+
+.eigh {
+    background-color: whitesmoke;
+    height: 300px;
+    width: 350px;
+    margin-top: 10px;
+    display: flex;
+    margin-left: 1200PX;
+    position: absolute;
+}
+
+.tax {
+    margin-top: 160px;
+    margin-left: 100px;
+}
+
+.tell {
+    position: absolute;
+    text-align: center;
+    margin-top: 200px;
+
+}
+
+#fell {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 60px;
+    left: 120px;
+}
+
+.hyc {
+
+    margin-top: 430px;
+    margin-left: 630px;
+}
+
+#git {
+    width: 100%;
+    position: relative;
+}
+
+.bot {
+    border-bottom: 2px solid rgba(255, 30, 0, 0.253);
+    width: 100px;
+    margin-left: 700px;
+    height: 10px;
+
+}
+
+/* this is contsiner-4 */
+
+.feat {
+    width: 500px;
+    margin-top: 60px;
+    margin-left: 500px;
+    position: absolute;
+}
+
+.orang {
+    background-color: rgb(255, 38, 0);
+    position: relative;
+    height: 220px;
+    width: 500px;
+    left: 500px;
+    top: 385px;
+    opacity: 0.8;
+}
+
+.scq {
+    position: absolute;
+    color: rgba(255, 255, 255, 0.788);
+    text-align: center;
+    top: 50px;
+}
+
+.ler {
+    position: absolute;
+    width: 130px;
+    height: 50px;
+    border-radius: 30px;
+    top: 160px;
+    left: 180px;
+}
+
+.threebox {
+    position: relative;
+}
+
+.indu {
+    position: absolute;
+    top: -180px;
+    left: 30px;
+}
+
+.mil {
+    position: absolute;
+    top: -130px;
+    left: 30px;
+}
+
+#dice {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: -250px;
+    left: 15px;
+}
+
+.hunk {
+    position: absolute;
+    top: -180px;
+    left: 1050px;
+}
+
+.oe {
+    position: absolute;
+    top: -130px;
+    left: 1050px;
+}
+
+#beam {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: -250px;
+    left: 1035px;
+}
+
+.per {
+    position: absolute;
+    left: 30px;
+}
+
+.hul {
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+
+#pec {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: -60px;
+    left: 10px;
+}
+
+.pof {
+    position: absolute;
+    left: 1050px;
+}
+
+.prof {
+    position: absolute;
+    left: 1050px;
+    top: 45px;
+}
+
+#dol {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: -70px;
+    left: 1030px;
+}
+
+.awa {
+    position: absolute;
+    left: 30px;
+    top: 160px;
+}
+
+.awar {
+    position: absolute;
+    top: 210px;
+    left: 30px;
+}
+
+#med {
+    position: absolute;
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 100px;
+    left: 10px;
+}
+
+.tf {
+    position: absolute;
+    left: 1055px;
+    top: 160px;
+}
+
+.mute {
+    position: absolute;
+    left: 1055px;
+    top: 210px;
+}
+
+#hed {
+    position: absolute;
+    border: 2px solid white;
+    height: 39px;
+    width: 37px;
+    position: absolute;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 35PX;
+    top: 98px;
+    left: 1038px;
+}
+
+#container5 {
+    background-color: whitesmoke;
+    height: 500px;
+    position: relative;
+    top: 370px;
+    width: 50%;
+}
+
+.reed {
+    height: 500px;
+    position: absolute;
+    /* top: 570px; */
+    width: 98%;
+    background-color: rgba(255, 30, 0, 0.897);
+    left: 790px;
+}
+
+.uote {
+    height: 500px;
+    width: 102.3%;
+}
+
+.req {
+    position: absolute;
+    top: 100px;
+    left: 45px;
+    font-size: 45px;
+}
+
+.full {
+    position: absolute;
+    top: 180px;
+    left: 45px;
+}
+
+.sad {
+    position: absolute;
+    height: 30px;
+    width: 270px;
+    top: 280px;
+    left: 45px;
+}
+
+.sads {
+    position: absolute;
+    height: 30px;
+    width: 270px;
+    top: 280px;
+    left: 350px;
+}
+
+.select {
+    position: absolute;
+    height: 35px;
+    width: 275px;
+    top: 350px;
+    left: 45px;
+    padding-top: 12px;
+}
+
+.span {
+    position: absolute;
+    font-size: 11px;
+    opacity: 0.7;
+    top: 352px;
+    left: 50px;
+}
+
+.tik {
+    position: absolute;
+    height: 30px;
+    width: 270px;
+    top: 350px;
+    left: 350px;
+    color: white;
+    background-color: rgba(255, 30, 0, 0.897);
+}
+
+.rpt {
+    position: absolute;
+    font-size: 18px;
+    top: 357px;
+    left: 415px;
+    color: white;
+}
+
+.container8 {
+    position: relative;
+}
+
+.dev {
+    position: absolute;
+    top: 460px;
+    font-size: 50px;
+    left: 560px;
+}
+
+.outline {
+    position: absolute;
+    border-bottom: 2px solid rgba(255, 68, 0, 0.473);
+    width: 150px;
+    top: 540px;
+    left: 700px;
+}
+
+#containerimg {
+    position: relative;
+}
+
+.team1 {
+    position: absolute;
+    top: 600px;
+    left: 35px;
+}
+
+.team2 {
+    position: absolute;
+    top: 600px;
+    left: 555px;
+}
+
+.team3 {
+    position: absolute;
+    top: 600px;
+    left: 1080px;
+}
+
+#container10 {
+    position: relative;
+}
+
+.tetsi {
+    position: absolute;
+    top: 1150px;
+    height: 430px;
+    width: 50%;
+}
+
+.divl {
+    position: absolute;
+    background-color: whitesmoke;
+    height: 430px;
+    width: 50%;
+    top: 1150px;
+    left: 50%;
+}
+
+.rou {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.redf {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
+#fqou {
+    position: absolute;
+    right: 745px;
+
+}
+
+#ied {
+    position: absolute;
+    top: 90px;
+    left: 180px;
+}
+
+.testimonial2 {
+    position: absolute;
+    border-radius: 200px;
+    height: 80px;
+    top: 290px;
+    left: 50px;
+}
+
+.proffesor {
+    position: absolute;
+    top: 310px;
+    left: 140px;
+}
+
+.profn {
+    position: absolute;
+    font-size: 12px;
+    left: 141px;
+    top: 333px;
+}
+
+.lbp {
+    position: absolute;
+    top: 1700px;
+    font-size: 50px;
+    left: 37%;
+}
+
+.undeline2 {
+    position: relative;
+    border-bottom: 2px solid rgba(255, 30, 0, 0.479);
+    top: 1780px;
+    width: 150px;
+    left: 43.9%;
+}
+
+#container11 {
+    position: relative;
+}
+
+.img12 {
+    position: absolute;
+    top: 1900px;
+}
+
+.border1 {
+    position: relative;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 75px;
+    width: 60px;
+    background-color: rgb(255, 51, 0);
+    top: 300px;
+    left: 20px;
+
+}
+
+.border2 {
+    position: absolute;
+    height: 75px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 386px;
+    background-color: whitesmoke;
+    top: 300px;
+    left: 80px;
+}
+
+.jaan {
+    position: absolute;
+    margin-top: 10px;
+    left: 10px;
+    color: white;
+    text-align: center;
+}
+
+.jan2 {
+    color: black;
+    font-size: 20px;
+}
+
+.jan4 {
+    position: absolute;
+    color: rgba(0, 0, 0, 0.76);
+    font-size: 13PX;
+    left: 12px;
+    top: 12px;
+}
+
+.jan3 {
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    top: 35px;
+    left: 10px;
+}
+
+.WEBD {
+    margin-left: 10px;
+}
+
+.img13 {
+    position: absolute;
+    top: 1900px;
+}
+
+.border3 {
+    position: absolute;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 75px;
+    width: 60px;
+    background-color: rgb(255, 51, 0);
+    left: 575px;
+    top: 300px;
+}
+
+.jaan6 {
+    position: absolute;
+    margin-top: 10px;
+    left: 10px;
+    color: white;
+    text-align: center;
+}
+
+.jan5 {
+    color: black;
+}
+
+.border4 {
+    position: absolute;
+    height: 75px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 386px;
+    background-color: whitesmoke;
+    left: 636.5px;
+    top: 300px;
+}
+
+.jan7 {
+    position: absolute;
+    color: black;
+    font-size: 21px;
+    top: 35px;
+    left: 10px;
+}
+
+.img14 {
+    position: absolute;
+    top: 1900px;
+}
+
+.border5 {
+    position: absolute;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 75px;
+    width: 60px;
+    background-color: rgb(255, 51, 0);
+    top: 2200px;
+    left: 1100px;
+}
+
+.jaan7 {
+    position: absolute;
+    margin-top: 10px;
+    left: 10px;
+    color: white;
+    text-align: center;
+}
+
+.jan8 {
+    color: black;
+
+}
+
+.blog1 {
+    position: absolute;
+    height: 300px;
+    left: 20px;
+}
+
+.border6 {
+    position: absolute;
+    height: 75px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    width: 386px;
+    background-color: whitesmoke;
+    left: 636.5px;
+    top: 300px;
+    top: 2200px;
+    left: 1160px;
+}
+
+.blog2 {
+    position: absolute;
+    height: 300px;
+    left: 575px;
+}
+
+.blog3 {
+    position: absolute;
+    height: 300px;
+    left: 1100px;
+}
+
+.container11 {
+    height: 190px;
+    background-color: rgb(255, 30, 0);
+    position: relative;
+    top: 2400px;
+
+}
+
+.udate {
+    position: absolute;
+    font-size: 50PX;
+    left: 38%;
+    top: 25PX;
+}
+
+.yml {
+    position: absolute;
+    width: 550px;
+    height: 45px;
+    padding-left: 10px;
+    top: 105px;
+    left: 500px;
+}
+
+.box12 {
+    position: absolute;
+    border: 2px solid rgba(0, 0, 0, 0);
+    height: 46px;
+    width: 60px;
+    background-color: black;
+    left: 1065px;
+    top: 105px;
+}
+
+.sgni {
+    position: absolute;
+    color: white;
+    top: 13px;
+    left: 5px;
+}
+
+.container12 {
+    position: relative;
+    height: 400px;
+    background-color: black;
+    top: 2400px;
+
+}
+
+.inks {
+    position: absolute;
+    color: white;
+    top: 40px;
+    left: 50px;
+}
+
+.sec1 {
+    position: absolute;
+    color: white;
+}
+
+.li1 {
+    margin-top: 70px;
+    margin-left: 40px;
+    padding: 10px 0px 0px 0px;
+}
+
+#arrow6 {
+    color: rgb(255, 38, 0)
+}
+
+
+#arrow6 {
+    right: 5px;
+}
+
+.li1 li {
+    padding-top: 20px;
+}
+
+.poln {
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 420px;
+}
+
+.li2 {
+    position: absolute;
+    color: white;
+    left: 420px;
+    top: 78px;
+}
+
+.li2 li {
+    padding-top: 20px;
+}
+
+.sec3 {
+    position: absolute;
+}
+
+.gith {
+    margin-left: 790px;
+    color: white;
+    margin-top: 38px;
+}
+
+.li3 {
+
+    color: white;
+    margin-left: 770px;
+    margin-top: 10px;
+}
+
+.li3 li {
+    padding-top: 20px;
+}
+
+#loct {
+    color: rgb(255, 38, 0);
+}
+
+#evlop {
+    color: rgb(255, 38, 0);
+}
+
+#laac {
+    color: rgb(255, 38, 0);
+}
+
+.owus {
+    position: absolute;
+    color: white;
+    left: 1150px;
+    top: 34px;
+}
+
+#andt {
+
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    margin-left: 1150px;
+    background-color: rgba(255, 30, 0, 0.897);
+    color: white;
+    margin-top: 75px;
+}
+
+#book {
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 8PX;
+    border-radius: 30PX;
+    top: 75px;
+    background-color: rgba(255, 30, 0, 0.897);
+    color: white;
+    left: 1220px;
+    position: absolute;
+}
+
+#linkedin {
+    position: absolute;
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 95PX;
+    border-radius: 30PX;
+    top: 75px;
+    background-color: rgba(255, 30, 0, 0.897);
+    color: white;
+}
+
+#instaram {
+    position: absolute;
+    border: 2px solid white;
+    height: 37px;
+    width: 35px;
+    padding: 20PX 0PX 0PX 20PX;
+    margin-left: 170PX;
+    border-radius: 30PX;
+    top: 75px;
+    background-color: rgba(255, 30, 0, 0.897);
+    color: white;
+}
+
+hr {
+    color: rgba(128, 128, 128, 0);
+    margin-top: 200px;
+
+}
+
+.lastwords {
+    position: absolute;
+    color: white;
+    top: 360px;
+    left: 600px;
+}
